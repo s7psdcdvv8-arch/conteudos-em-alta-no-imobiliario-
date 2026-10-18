@@ -19,6 +19,10 @@ analises/              Decomposição de referências e resultados dos nossos v�
 2. **Decompor.** Cada referência relevante é analisada segundo a segundo (gancho, corpo, CTA, edição) e registrada em `analises/`, seguindo o modelo da pasta.
 3. **Medir.** O resultado real de cada vídeo nosso publicado também volta para `analises/` e alimenta o próximo plano.
 
+## Ferramentas externas
+
+- [OpenMontage](https://github.com/calesthio/OpenMontage.git)
+
 ## Regras
 
 - Não inventar visualizações, métricas ou detalhes que não possam ser verificados.
